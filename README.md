@@ -1,2 +1,3 @@
 # chromeos-terminal-fonts
-ChromeOS Terminal Font Configurations
+
+ChromeOS terminal font configurations.
