@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "JetBrains Mono Nerd Font";
+  font-style: normal;
+  font-weight: 400; /* Regular weight */
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@v3.4.0/patched-fonts/JetBrainsMono/NoLigatures/Regular/JetBrainsMonoNLNerdFontMono-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "JetBrains Mono Nerd Font";
+  font-style: italic;
+  font-weight: 400; /* Regular italic weight */
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@v3.4.0/patched-fonts/JetBrainsMono/NoLigatures/Italic/JetBrainsMonoNLNerdFontMono-Italic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "JetBrains Mono Nerd Font";
+  font-style: normal;
+  font-weight: 700; /* Bold weight */
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@v3.4.0/patched-fonts/JetBrainsMono/NoLigatures/Bold/JetBrainsMonoNLNerdFontMono-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "JetBrains Mono Nerd Font";
+  font-style: italic;
+  font-weight: 700; /* Bold italic weight */
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@v3.4.0/patched-fonts/JetBrainsMono/NoLigatures/BoldItalic/JetBrainsMonoNLNerdFontMono-BoldItalic.ttf") format("truetype");
+}
+
+* {
+  font-family: "JetBrains Mono Nerd Font";
+  text-rendering: optimizeLegibility;
+}
