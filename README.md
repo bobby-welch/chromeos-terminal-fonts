@@ -22,5 +22,5 @@ To set a supported Nerd Font (found in this repo) for the ChromeOS terminal, fol
 chrome-untrusted://terminal/html/nassh_preferences_editor.html
 ```
 
-- In the **Custom CSS (URI)** field, enter the details for the Nerd Font you want to use.
-- In the Text font family field, specify the exact name of the font.
+- In the **Custom CSS (URI)** field, enter the details for the Nerd Font you want to use (one of the CDN links).
+- In the **Text font family** field, specify the exact name of the font.
