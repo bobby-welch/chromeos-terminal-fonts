@@ -12,7 +12,7 @@ NOTE: All fonts included are the mono variants.  This means that existing and ad
 - [JetBrains Mono Nerd Font](https://cdn.jsdelivr.net/gh/bobby-welch/chromeos-terminal-fonts@v1.1.0/chromeos-terminal-jetbrains-mono-nerd-font.css)
 - [Iosevka Term Nerd Font](https://cdn.jsdelivr.net/gh/bobby-welch/chromeos-terminal-fonts@v1.1.0/chromeos-terminal-iosevka-term-nerd-font.css)
 
-## Setting Nerd Fonts for ChromeOS Terminal
+## Using Nerd Fonts in the ChromeOS Terminal
 
 To set a supported Nerd Font (found in this repo) for the ChromeOS terminal, follow these steps:
 
