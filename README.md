@@ -1,4 +1,4 @@
-# ChromeOS Terminal Font Support
+# ChromeOS Terminal Nerd Font Support
 
 ## Supported Fonts
 
